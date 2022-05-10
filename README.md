@@ -1,4 +1,5 @@
 # Small-Net
+## A CNN to identify COVID-19 in lung X-ray images
 
 14/11/2021
 
